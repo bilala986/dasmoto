@@ -1,0 +1,243 @@
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+body {
+    line-height:1;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {
+    display:block;
+}
+
+nav ul {
+    list-style:none;
+}
+
+blockquote, q {
+    quotes:none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:'';
+    content:none;
+}
+
+a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+/* change colours to suit your needs */
+ins {
+    background-color:#ff9;
+    color:#000;
+    text-decoration:none;
+}
+
+/* change colours to suit your needs */
+mark {
+    background-color:#ff9;
+    color:#000;
+    font-style:italic;
+    font-weight:bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+    border-bottom:1px dotted;
+    cursor:help;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+/* change border colour to suit your needs */
+hr {
+    display:block;
+    height:1px;
+    border:0;  
+    border-top:1px solid #cccccc;
+    margin:1em 0;
+    padding:0;
+}
+
+input, select {
+    vertical-align:middle;
+}
+
+
+
+
+
+/********************************************MY CODE*********************************************/
+
+header h1 {
+    font-size: 100px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(img/pattern.webp);
+    width: 99%;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+main .brushes {
+    margin-left: 10px;
+}
+
+main .brushes h3 {
+    
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+    margin-top: 50px;
+}
+
+main .brushes .hacksaw {
+    margin-top: 30px;
+}
+
+main .brushes h2 {
+    font-family: sans-serif;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+main .brushes .first {
+    margin-top: 20px;
+}
+
+main .brushes .second {
+    color: blue;
+    font-weight: bold
+}
+
+main .brushes .first,.second {
+    font-family: sans-serif;
+    display: inline-block;
+}
+
+
+
+
+main .frames {
+    margin-left: 10px;
+    font-family: sans-serif;
+}
+
+main .frames h3 {
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+    margin-top: 50px;
+}
+
+main .frames .frames-pic {
+    margin-top: 30px;
+}
+
+main .frames h2 {
+    font-family: sans-serif;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+main .frames .first {
+    margin-top: 20px;
+}
+
+main .frames .second {
+    color: blue;
+    font-weight: bold
+}
+
+main .frames .first,.second {
+    font-family: sans-serif;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+main .paint {
+    font-family: sans-serif;
+    margin-left: 10px;
+}
+
+main .paint h3 {
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+    margin-top: 50px;
+}
+
+main .paint img {
+    margin-top: 30px;
+}
+
+main .paint h2 {
+    font-family: sans-serif;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+main .paint .first {
+    margin-top: 20px;
+}
+
+main .paint .second {
+    color: blue;
+    font-weight: bold
+}
+
+main .paint .first,.second {
+    font-family: sans-serif;
+    display: inline-block;
+}
+
+
+
+
